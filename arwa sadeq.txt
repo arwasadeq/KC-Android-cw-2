@@ -1,0 +1,15 @@
+public class Main
+{
+	public static void main(String[] args) {
+	String name = "arwa sadeq";
+	System.out.println("my name is" + name);
+ 	
+ 	
+	int x = 180 ;
+	if(x > 150){
+	System.out.println("you can play");
+	}else if(x < 160){
+	    System.out.println("you cant play");
+	}
+	}
+}
